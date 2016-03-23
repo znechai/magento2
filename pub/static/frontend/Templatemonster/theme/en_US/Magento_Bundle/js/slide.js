@@ -1,0 +1,1 @@
+/var/www/magento2/vendor/magento/module-bundle/view/frontend/web/js/slide.js
