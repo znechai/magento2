@@ -1,0 +1,145 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1458766481;s:6:"expire";i:1458852881;s:4:"tags";s:43:"aaf_CATALOG_PRODUCT,aaf_BLOCK_HTML,aaf_MAGE";}
+    <div class="block widget block-products-list grid">
+                <div class="block-title">
+            <strong>NEW PRODUCTS</strong>
+        </div>
+                <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <ol class="product-items widget-product-grid">
+                                                                <li class="product-item">                        <div class="product-item-info">
+                            <a href="http://mage.dev/distressed-jeans.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:270px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 124.07407407407%;">
+        <img class="product-image-photo"
+                          src="http://mage.dev/pub/media/catalog/product/cache/1/small_image/270x335/beff4985b56e3afdbeabfc89641a4582/1/_/1.jpg"
+             width="270"
+             height="335"
+             alt="DISTRESSED JEANS"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="DISTRESSED JEANS"
+                                       href="http://mage.dev/distressed-jeans.html"
+                                       class="product-item-link">
+                                        DISTRESSED JEANS                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="5">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-5-widget-product-grid"                data-price-amount="60"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$60.00</span>    </span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                            <button class="action tocart primary"
+                                                                data-mage-init='{"redirectUrl":{"url":"http://mage.dev/distressed-jeans.html?options=cart"}}'
+                                                                type="button" title="Add to Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/mage.dev\/wishlist\/index\/add\/","data":{"product":"5","uenc":"aHR0cDovL21hZ2UuZGV2Lw,,"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Wish List">
+                                                        <span>Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/mage.dev\/catalog\/product_compare\/add\/","data":{"product":"5","uenc":"aHR0cDovL21hZ2UuZGV2Lw,,"}}'
+                                                       title="Compare">
+                                                        <span>Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://mage.dev/winnipeg-jets-bundle.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:270px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 124.07407407407%;">
+        <img class="product-image-photo"
+                          src="http://mage.dev/pub/media/catalog/product/cache/1/small_image/270x335/beff4985b56e3afdbeabfc89641a4582/t/h/thirt_6.png"
+             width="270"
+             height="335"
+             alt="WINNIPEG JETS BUNDLE"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="WINNIPEG JETS BUNDLE"
+                                       href="http://mage.dev/winnipeg-jets-bundle.html"
+                                       class="product-item-link">
+                                        WINNIPEG JETS BUNDLE                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="16">
+            <p class="price-from">
+            
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">From</span>
+        <span  id="old-price-16-widget-product-grid"                data-price-amount="19.99"
+        data-price-type="minPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$19.99</span>    </span>
+        </span>
+                    </p>
+        <p class="price-to">
+            
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">To</span>
+        <span  id="old-price-16-widget-product-grid"                data-price-amount="259.97"
+        data-price-type="maxPrice"
+        class="price-wrapper "
+        >
+        <span class="price">$259.97</span>    </span>
+        </span>
+                    </p>
+    </div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                            <button class="action tocart primary"
+                                                                data-mage-init='{"redirectUrl":{"url":"http://mage.dev/winnipeg-jets-bundle.html?options=cart"}}'
+                                                                type="button" title="Add to Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/mage.dev\/wishlist\/index\/add\/","data":{"product":"16","uenc":"aHR0cDovL21hZ2UuZGV2Lw,,"}}'
+                                                       class="action towishlist" data-action="add-to-wishlist"
+                                                       title="Wish List">
+                                                        <span>Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                       data-post='{"action":"http:\/\/mage.dev\/catalog\/product_compare\/add\/","data":{"product":"16","uenc":"aHR0cDovL21hZ2UuZGV2Lw,,"}}'
+                                                       title="Compare">
+                                                        <span>Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                        </li>                                    </ol>
+            </div>
+                    </div>
+    </div>
